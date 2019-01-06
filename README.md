@@ -1,2 +1,2 @@
-# SWNetTR
+# SWNetTR++
 SWNetTR++ Turkish Sentiment Lexicon
