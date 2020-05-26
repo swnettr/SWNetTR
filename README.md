@@ -5,7 +5,7 @@
 ****************************************************************************************************************************
 Sayın Araştırmacı;
 
-Bu Türkçe Duygu Sözlüğü, doktora tezi çalışması kapsamında geliştirilmiş olup,
+Bu 49K kapasiteli Türkçe Duygu Sözlüğü, doktora tezi çalışması kapsamında geliştirilmiş olup,
 kullanılması ve dağıtılması tamamen serbesttir. Amacımız dilimizde yapılacak
 çalışmalara kaynak oluşturabilmektedir. 
 
