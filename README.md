@@ -1,5 +1,6 @@
 # SWNetTR++
-SWNetTR++ Turkish Sentiment Lexicon
+# TÜRKÇE DUYGU SÖZLÜĞÜ
+# TURKISH SENTIMENT LEXICON
 
 ****************************************************************************************************************************
 Sayın Araştırmacı;
