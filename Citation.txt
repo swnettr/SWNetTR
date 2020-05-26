@@ -1,0 +1,14 @@
+REFERANS VERİLECEK YAYINLAR:
+---------------------------
+1) F. Sağlam, B. Genç, H. Sever, "Extending a Sentiment Lexicon with Synonym-Antonym Datasets: SWNetTR++", 
+   Turkish Journal of Electrical Engineering and Computer Sciences, 27 (2019) 1806-1820. 
+   
+2) F. Sağlam, B. Genç, H. Sever, "Developing Turkish Sentiment Lexicon for Sentiment Analysis Using Online News Media", 
+   IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), 
+   Nov 29 – Dec 02 2016, Agadir, Morocco, 2016.   
+
+
+SÖZLÜĞÜN TÜM GELİŞTİRİLME YÖNTEM VE SÜREÇLERİ HAKKINDA BÜTÜN BİLGİLER İÇİN:
+--------------------------------------------------------------------------
+   YÖK Tez Merkezi, 10253867 referans numaralı, 
+   "Otomatik Duygu Sözlüğü Geliştirilmesi ve Haberlerin Duygu Analizi" konulu doktora tezi.
